@@ -1,0 +1,2 @@
+# RandamQuoute
+randam Quoute generator 
