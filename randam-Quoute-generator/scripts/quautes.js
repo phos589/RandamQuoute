@@ -1,0 +1,21 @@
+export const quoutes = [
+  "You don't develop courage by being happy in your relationships everyday. You develop it by surviving difficult times and challenging adversity. - Epicurus",
+  "It does not matter what you bear, but how you bear it - Seneca",
+  "He has the most who is content with the least. - Diogenes",
+  "It does not matter what you bear, but how you bear it - Seneca",
+  "The tranquility that comes when you stop caring what they say. Or think, or do. Only what you do - Marcus Aurelius",
+  "To be evenminded is the greatest virtue - Heraclitus",
+  "A gem cannot be polished without friction, nor a man perfected without trials. - Seneca",
+  "Won't we, therefore, be willing to endure pain in order to gain complete happiness? - Musonius Rufus",
+  "Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for. - Epicurus",
+  "When someone is properly grounded in life, they shouldn't have to look outside themselves for approval. - Epictetus",
+  "The happiness of your life depends upon the quality of your thoughts. - Marcus Aurelius","He who fears death will never do anything worth of a living man. - Seneca",
+  "It is not death that a man should fear, but he should fear never beginning to live. - Marcus Aurelius",
+  "The more we value things outside our control, the less control we have. - Epictetus",
+  "Difficulties strengthen the mind, as labor does the body. - Seneca",
+  "No man is free who is not master of himself. - Epictetus",
+  "Waste no more time arguing about what a good man should be. Be one.- Marcus Aurelius",
+  "If a man knows not to which port he sails, no wind is favorable. - Seneca",
+  "The happiness of your life depends upon virtue. - Seneca",
+  "It's not what happens to you, but how you react to it that matters. - Epictetus"
+]; 
